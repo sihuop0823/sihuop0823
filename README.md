@@ -26,6 +26,6 @@
 
 ---
 
-## <img src="https://img.shields.io/badge/Gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" height="25"> GitLab Streak
+## GitLab Streak
 
 ![GitLab Stats](https://gitlab-readme-stats.vercel.app/api?username=SihuPark&show_icons=true&theme=radical)
