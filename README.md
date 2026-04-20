@@ -19,6 +19,7 @@
 ---
 
 ## 📊 Statistics
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sihuop0823&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-![sihuop0823's GitHub stats](https://github-readme-stats.vercel.app/api?username=sihuop0823&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sihuop0823&layout=compact&theme=vision-friendly-dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+![sihuop0823's GitHub stats](https://github-readme-stats.vercel.app/api?username=sihuop0823&show_icons=true&theme=radical&count_private=true)
