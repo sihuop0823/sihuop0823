@@ -23,3 +23,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sihuop0823&layout=compact&theme=vision-friendly-dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sihuop0823&theme=radical)
+
+---
+
+## <img src="https://img.shields.io/badge/Gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" height="25"> GitLab Streak
+
+![GitLab Stats](https://gitlab-readme-stats.vercel.app/api?username=SihuPark&show_icons=true&theme=radical)
