@@ -1,6 +1,6 @@
 # 🌈 Welcome to sihuop0823's Profile!
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=sihuop0823&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=좋은%20하루%20되시길&fontSize=75&fontDesc=Do%20Hyeon)
 
 ## 🛠 Tech Stack
 
