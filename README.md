@@ -20,6 +20,4 @@
 
 ## 🏆 GitHub Streak & Statistics
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sihuop0823&layout=compact&theme=vision-friendly-dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sihuop0823&theme=radical)
